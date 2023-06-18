@@ -20,6 +20,15 @@ Per il mio progetto ho voluto realizzare una pagina web che prendesse in conside
 
 
 
+
+
+https://github.com/MMartinaMMatteri/Anelli/assets/127389607/ea4e182a-54c5-4617-8614-83ad1a779ed0
+
+
+
+
+
+
 ## Design dell’interfraccia e modalià di interazione
 La pagina web è quindi stata progettata suddividendola in header, origini, evoluzione, presente e footer. Prendendo in considerazione le singole parti, le tre centrali, ho voluto lasciare la parte riguardante l'evoluzione degli anelli puramente visiva, inserendo solo poche informazioni importanti, un po' come se fossero una sorta di carta d'identità del gioiello. La prima e terza parte invece, sono prettamente testuali.
 
