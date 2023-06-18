@@ -52,4 +52,6 @@ Per impostare tutto il progetto come prima cosa dopo alcune prove manuali ho imp
 ## Target e contesto d’uso
 La pagina è facilmente accessibile a tutti coloro capaci nell'utilizzare un computer. L'interazione principale che si può avere è molto limitata dato che si può solo effettuare uno scroll verso il basso. Questo tipo di layout unicamente verticale è stato scelto per facilitare la lettura e la consultazione delle informazioni presenti. In conclusione, il target di riferimento risulta abbastanza ampio; partendo da un adolescente e arrivando fino alle persone più adulte.
 
+## Link al progetto
 
+https://mmartinammatteri.github.io/Anelli/
